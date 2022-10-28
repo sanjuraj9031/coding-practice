@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch fibonaccirecursion",
+            "request": "launch",
+            "mainClass": "fibonaccirecursion",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimumjumps",
+            "request": "launch",
+            "mainClass": "minimumjumps",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern3",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch hollowdiamond",
+            "request": "launch",
+            "mainClass": "hollowdiamond",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch area",
+            "request": "launch",
+            "mainClass": "area",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeno",
+            "request": "launch",
+            "mainClass": "primeno",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch adding2matrices",
+            "request": "launch",
+            "mainClass": "adding2matrices",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch copyinganarray",
+            "request": "launch",
+            "mainClass": "copyinganarray",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch max",
+            "request": "launch",
+            "mainClass": "max",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch linearsearch",
+            "request": "launch",
+            "mainClass": "linearsearch",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pyramid",
+            "request": "launch",
+            "mainClass": "pyramid",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch APseries",
+            "request": "launch",
+            "mainClass": "APseries",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch GPseries",
+            "request": "launch",
+            "mainClass": "GPseries",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SCString",
+            "request": "launch",
+            "mainClass": "SCString",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Simple",
+            "request": "launch",
+            "mainClass": "Simple",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch age",
+            "request": "launch",
+            "mainClass": "age",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrongnum",
+            "request": "launch",
+            "mainClass": "armstrongnum",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch displaydigits",
+            "request": "launch",
+            "mainClass": "displaydigits",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch extraspaces",
+            "request": "launch",
+            "mainClass": "extraspaces",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch leapyear",
+            "request": "launch",
+            "mainClass": "leapyear",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch menudriven",
+            "request": "launch",
+            "mainClass": "menudriven",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch oddeven",
+            "request": "launch",
+            "mainClass": "oddeven",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pyramidpattern",
+            "request": "launch",
+            "mainClass": "pyramidpattern",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch radixofnumber",
+            "request": "launch",
+            "mainClass": "radixofnumber",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumofnnumbers",
+            "request": "launch",
+            "mainClass": "sumofnnumbers",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch table",
+            "request": "launch",
+            "mainClass": "table",
+            "projectName": "java_a7cf075c"
+        }
+    ]
+}
